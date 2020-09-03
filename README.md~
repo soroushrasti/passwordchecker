@@ -5,4 +5,3 @@ In order that your password would be extra safe, this file uses the Hash technol
 
 You can also test several passwords by typing them after the file name:
 python3 passwordchecker.py your_password_1 your_password_2 your_password_3 
-
